@@ -12,6 +12,7 @@ pagina de contactos email, celular, facebook, whatshapp
 elias -- 
 vidal -- pie de pagina 
 verificar que el servidor git este funcionando https://status.github.com/
+aqui estoy
 
 
 
