@@ -9,8 +9,8 @@ Mario Chacon
 pagina del plantel administrativo
 Jhnonny Gutierrez 
 pagina de contactos email, celular, facebook, whatshapp
-elias --
-vidal --Principal
+elias -- 
+vidal -- pie de pagina 
+verificar que el servidor git este funcionando https://status.github.com/
 
 
-Jhnonny
