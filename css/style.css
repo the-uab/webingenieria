@@ -15,7 +15,11 @@ html{
 .box{
 	position: relative;
 	margin: auto;
+<<<<<<< HEAD
 	height: 415px;
+=======
+	height: 375px;
+>>>>>>> origin/master
   top: 40px;
 	left: 0;
 	z-index: 200;
