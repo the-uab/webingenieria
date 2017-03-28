@@ -1,23 +1,8 @@
-Tareas Asignadas para el Grupo
-Luis Poma
-Pagina Principal incluyendo el menu y la cabecera
-Luis Montaño
-Pagina de noticias
-Gustavo
-Pagina de plantel docente
-Mario Chacon
-pagina del plantel administrativo
-Jhnonny Gutierrez 
-pagina de contactos email, celular, facebook, whatshapp
-elias -- 
-vidal -- pie de pagina 
-verificar que el servidor git este funcionando https://status.github.com/
-VIDAL---- aqui estoy  (0.0)/)
-----------------------------------------------------
-INGRESEN AL SISTEMA 
-por el login...  
+Diseño y construcción de las Pagina Web de Ingenieria 
+Realizar la pagina web informativa para la facultad de Ingenieria 
+Contempla las siguientes carreras
+- Ingenieria de Sistemas
+- Ingenieria en Redes y Telecomunicaciones
+- Ingenieria Ambiental 
 
-
-
-
-
+Proyecto iniciado el 2 dde marzo del 2017
