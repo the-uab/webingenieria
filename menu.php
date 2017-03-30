@@ -9,12 +9,12 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>UMSS</title>
+    <title>UAB</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="bootstrap/css/style.min.css" rel="stylesheet">
-    <link href="plantilla/fonts/font-awesome.min.css" rel="stylesheet">
+    <link href="bootstrap/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
 
   </head>
@@ -66,14 +66,13 @@
         <p>
           <div class="container-fluid">
              <div class="row">
-            <img src="plantilla/images/uab.jpg" class="img-responsive">
+            <img src="images/uab.jpg" class="img-responsive">
              </div>
           </div>
         </div>
       </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    
+    
     <center>
     <div class="footer">
       <!-- <p class="text-muted"><font><font>Los valores te llevaran al EXITO!!!</font></font></p> -->
@@ -91,5 +90,7 @@
        </div>
      </div>
    </center>
+   <script type="text/javascript" href="bootstrap/js/jquery.min.js"></script>
+   <script type="text/javascript" href="bootstrap/js/bootstrap.min.js"></script>  
   </body>
   </html>
