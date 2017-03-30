@@ -12,8 +12,8 @@
     <title>UMSS</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="plantilla/css/bootstrap.min.css" rel="stylesheet">
-    <link href="plantilla/css/style.min.css" rel="stylesheet">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap/css/style.min.css" rel="stylesheet">
     <link href="plantilla/fonts/font-awesome.min.css" rel="stylesheet">
 
 
@@ -72,8 +72,8 @@
         </div>
       </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="plantilla/js/bootstrap.min.js"></script>
-    <link href="plantilla/css/font-awesome.min.css" rel="stylesheet">
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <center>
     <div class="footer">
       <!-- <p class="text-muted"><font><font>Los valores te llevaran al EXITO!!!</font></font></p> -->
@@ -87,7 +87,7 @@
                <a href='#'><i class="fa fa-vine fa-3x fa-fw"></i></a>
                <a href='#'><i class="fa fa-flickr fa-3x fa-fw"></i></a>
                <a href='#'><i class="fa fa-linkedin fa-3x fa-fw"></i></a>
-             </span>
+             
        </div>
      </div>
    </center>
