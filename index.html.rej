@@ -1,0 +1,14 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -9,8 +9,10 @@
+             <hr>
+             <img src="images/logoing.jpg" width="100" height="100"> 
+             <br>
+-Diseño y construccion de sitios web
+-<br>actualizar bootstrap
++<p>Pagina Principal de la Facultad de Ingenieria</p>
++Ingenieria de Sistemas<br>
++Ingenieria en Redes y Telecomunicaciones<br>
++Ingenieria Ambiental<br>
+ 
+ <h3> pie de Pagina   </h3>
+     </body>
