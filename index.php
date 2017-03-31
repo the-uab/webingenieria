@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UFT-8">  
+        <meta charset="UFT-8">
         <title> Pagina principal </title>
         <link href="css/materialize.min.css" rel="stylesheet">
-        <link href="js/materialize.min.js" rel="stylesheet">
     </head>
     <body>
     <nav>
@@ -19,12 +18,12 @@
     </div>
     </nav>
     <div class="container">
-        
+
     <div class="row">
 
       <div class="col s4">
         <img src="images/logoing.jpg" width="250"><br>
-        Ingenieria de Sistemas 
+        Ingenieria de Sistemas
       </div>
       <div class="col s4">
         <img src="images/logoing.jpg" width="250"><br>
@@ -39,7 +38,7 @@
 
     </div>
     <div class="jumbotron text-center">
-        
+
         <p>Tu Presente y tu futuro</p>
     </div>
     <div class="container">
