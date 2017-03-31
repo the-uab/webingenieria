@@ -12,9 +12,8 @@
     <title>UAB</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="bootstrap/css/style.min.css" rel="stylesheet">
-    <link href="bootstrap/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../css/materialize.min.css" rel="stylesheet">
+    
 
 
   </head>
