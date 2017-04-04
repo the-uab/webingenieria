@@ -34,7 +34,7 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright DidSoft
+            © 2017 Copyright DidSoft
             <a class="grey-text text-lighten-4 right" href="#!">UAB</a>
             </div>
           </div>
