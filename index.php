@@ -22,16 +22,16 @@
     <div class="row">
 
       <div class="col s4">
-        <img src="images/logoing.jpg" width="250"><br>
+        <img src="images/logoing.jpg" width="230" class="circle responsive-img"><br>
         Ingenieria de Sistemas
       </div>
       <div class="col s4">
-        <img src="images/logoing.jpg" width="250"><br>
+        <img src="images/logoing.jpg" width="230" class="circle responsive-img"><br>
         Ingenieria en Redes y Telecomunicaciones
         <!-- Promo Content 2 goes here -->
       </div>
       <div class="col s4">
-        <img src="images/logoing.jpg" width="250"><br>
+        <img src="images/logoing.jpg" width="230" class="circle responsive-img"><br>
         Ingenieria Ambiental
         <!-- Promo Content 3 goes here -->
       </div>
@@ -59,12 +59,36 @@
             <div class="col-sm-4">
             <h3>Ingenieria Ambiental</h3>
             <p>Tratamientode aguas</p>
-            <p>Impactoa ambiental</p>
+            <p>Impacto ambiental</p>
             </div>
         </div>
     </div>
     <!-- Page Content goes here -->
       </div>
+        <footer class="page-footer orange darken-2">
+          <div class="container" >
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Facultad de Ingenieria</h5>
+                <p class="grey-text text-lighten-4">Trabajando para la creación de nuevas tecnologias para el servicio a Dios.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Enlaces</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="http://www.facebook.com/ingenieriauab">Facebook</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Youtube</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Correo Electrónico</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2017 Copyright DidSoft
+            <a class="grey-text text-lighten-4 right" href="www.uab.edu.bo">UAB</a>
+            </div>
+          </div>
+        </footer>      
     <script src="js/jquery.js"></script>
     <script src="js/materialize.min.js"></script>
     </body>
