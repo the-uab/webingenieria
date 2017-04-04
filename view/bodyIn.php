@@ -1,9 +1,5 @@
 
-<div class="container">
-  <div id="index-banner" class="parallax-container">
-    <div class="parallax"><img src="multimedia/img/uab.jpg" alt="Logo" class="responsive-img"></div>
-  </div>
-</div>
+
 
   <div class="container">
     <div class="section">
