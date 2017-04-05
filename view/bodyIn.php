@@ -1,7 +1,7 @@
 
 
 
-  <div class="container">
+  <div class="">
     <div class="section">
 
       <!--   Icon Section   -->

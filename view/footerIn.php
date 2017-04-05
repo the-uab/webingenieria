@@ -28,7 +28,7 @@
                     <label for="contact-email" class="form-label rd-input-label">Ingresa tu E-mail</label>
                   </div>
                   <button class="btn waves-effect waves-light" type="submit" name="action">Enviar</button>
-                </form>                
+                </form>
               </div>
             </div>
           </div>
@@ -44,3 +44,12 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/materialize.min.js"></script>
 <script src="js/init.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.slider').slider();
+  });
+</script>
+
+</body>
+</html>
