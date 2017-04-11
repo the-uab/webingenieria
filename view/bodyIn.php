@@ -8,7 +8,7 @@
 }
 </style>
   <div class="">
-    <div class="section">
+    <div class="">
 
       <!--   Icon Section   -->
       <div class="row">
