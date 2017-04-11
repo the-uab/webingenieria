@@ -43,7 +43,7 @@
         <div class="col s12 m6 offset-m3">
           <div class="card z-depth-4">
             <div class="card-content">
-              <span class="card-title black-text">Inicio Seción</span>
+              <span class="card-title black-text">Inicio Sesión</span>
               <br>
               <br>
                 <form method="POST" class="responsive">
