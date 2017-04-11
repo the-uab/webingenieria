@@ -1,6 +1,12 @@
 
 
-
+<style>
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+</style>
   <div class="">
     <div class="section">
 
@@ -61,6 +67,58 @@ La Ingeniería de Sistemas tiene, como campo de estudio, cualquier sistema exist
           <p class="left-align light">La "UAB" sostiene que la educación cristiana se fundamenta en el amor de Dios hacia el ser humano.
 Tiene como fuente la revelación que Dios hace de sí mismo en las Sagradas Escrituras, cuyos principios inmutables y valores permanentes sustenta. La educación trasciende la realidad espacio-temporal porque sus resultados son de consecuencias eternas y requiere la intervención de la Gracia Divina para lograr su fin último. En su accionar, la "UAB" adopta los siguientes principios fundamentales de la educación adventista:
 - En lo antropológico, el hombre es un ser creado por Dios a su semejanza. En el momento de la creación le fue concedida la semejanza de su Creador en los distintos aspectos de su persona: físico, mental, social y espiritual. El hombre constituye una unidad pluridimensional. Es un ser individual, singular, indivisible, libre y responsable, provisto de inteligencia, afectividad y voluntad. La educación se da en función del hombre caído para devolverle la perfección perdida por causa del pecado. Por lo tanto, la educación se consustancia con la obra de la redención.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<div class="">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row">
+      <div class="center"><h3>NOTICIAS</h3></div>      
+        <div class="col s12 m3">
+          <div class="icon-block">
+
+            <div>
+              <h5 class="center-align"><img src="multimedia/img/flisol.png" alt="redes" height="200" width="200"></h5>
+            </div>
+
+            <p> El Festival Latinoamericano de Instalación de Software Libre (FLISOL) es evento de difusión de Software Libre más grande en Latinoamérica. Se ofrecen charlas y talleres sobre temáticas en torno al Software Libre. Su principal objetivo es promover el uso del software libre, dando a conocer al público su filosofía, alcance, alternativas, avance y desarrollo.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m3">
+          <div class="icon-block">
+            <div>
+              <h5 class="center-align"><img src="multimedia/img/IATec.jpg" alt="sistemas" height="200" width="200"></h5>
+            </div>
+
+            <p>El IATec desea coadyuvar en la formación de profesionales altamente capacitados. Por ese motivo ha propuesto el Programa Trainee para su implementación en la Facultad de Ingeniería de la UAB. El objetivo del Trainee es capacitar y entrenar personas en el área de ingeniería. Al final de cada programa de entrenamiento, se creará una nominata (breve resumen histórico del desempeño en el Trainee) la cual será compartida con los socios estratégicos de la Facultad de Ingeniería con el fin de acelerar el proceso de inserción laboral.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m3">
+          <div class="icon-block">
+            <div>
+              <h5 class="center-align"><img src="multimedia/img/clases_mat.jpg" alt="ambiental" height="200" width="200"></h5>
+            </div>
+            <p>Toda ingeniería requiere desarrollar habilidades de resolución de problemas matemáticos. Sin embargo, actualmente, se piensa que son difíciles, que sólamente unas pocas personas las pueden enteder, que hay que ser muy inteligente para ello, etc.
+
+Las Clases de Apoyo en Matemáticas (CAM) pretenden enfrentar esta problemática. Con una instructora altamente capacitada y con métodos innovadores y con una actitud positiva por parte de los participantes, se podrá revertir esta situación.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m3">
+          <div class="icon-block">
+            <div>
+              <h5 class="center-align"><img src="multimedia/img/rescue.png" alt="ambiental" height="200" width="200"></h5>
+            </div>
+        
+            <p>¿Qué es el amor? ¿Cómo podemos saber si alguien ama de verdad? La Semana Santa es un tiempo ideal para aprender del verdadero amor. ¡Estas invitado! Aula C1 y C2</p>
+          </div>
         </div>
       </div>
 
