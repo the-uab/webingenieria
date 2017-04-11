@@ -56,7 +56,7 @@
                   <div class="row">
                     <div class="input-field col s12">
                       <input name="password" type="password" class="validate">
-                      <label for="password">Contraceña</label>
+                      <label for="password">Contraseña</label>
                     </div>
                   </div>
                   <div class="card-action center">
