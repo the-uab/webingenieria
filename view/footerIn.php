@@ -48,6 +48,8 @@
 <script type="text/javascript">
 $(document).ready(function(){
     $('.slider').slider();
+    $('.materialboxed').materialbox();
+    $('.modal').modal();
   });
 </script>
 

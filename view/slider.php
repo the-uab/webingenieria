@@ -13,7 +13,7 @@
                     <img src="multimedia/img/telecom.jpg" class="responsive-img">
                 </li>
                 <li>
-                    <img src="multimedia/img/sistem.jpg" class="responsive-img">
+                    <img src="multimedia/img/sistem-5.jpg" class="responsive-img">
                 </li>
             </ul>
 
