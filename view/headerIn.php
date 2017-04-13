@@ -19,7 +19,10 @@
             <img src="multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30">FACULDAD DE INGENIERÍA
           </a>
           <ul class="right hide-on-med-and-down">
-            <li><a href="#">Menu</a></li>
+            <li><a href="index.php">Inicio</a></li>          
+            <li><a href="#">Carreras</a></li>
+            <li><a href="#">Testimonios</a></li>
+            <li><a href="#">Noticias</a></li>
             <li><a href="view/login.php"><i class="fa fa-sign-in"></i>Login</a></li>
           </ul>
           <ul id="nav-mobile" class="side-nav">
