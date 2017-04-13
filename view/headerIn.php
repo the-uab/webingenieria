@@ -12,7 +12,7 @@
 </head>
 <body>
   <header>
-    <div class="navbar">
+    <div class="navbar-fixed">
       <nav class="orange" role="navigation">
         <div class="nav-wrapper container">
           <a id="logo-container" href="#" class="brand-logo">
