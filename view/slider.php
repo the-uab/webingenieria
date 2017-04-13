@@ -1,7 +1,8 @@
-<div class="container">
+
+
   <div class="row">
     <div class="col s12">
-        <div class="slider">
+        <div class="carousel-fixed-item">
             <ul class="slides">
                 <li>
                     <img src="multimedia/img/uab.jpg" class="responsive-img">
@@ -19,4 +20,3 @@
 
         </div>
     </div>
-</div>
