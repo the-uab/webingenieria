@@ -50,6 +50,7 @@ $(document).ready(function(){
     $('.slider').slider();
     $('.materialboxed').materialbox();
     $('.modal').modal();
+    $('.tooltipped').tooltip({delay: 50});
   });
 </script>
 
