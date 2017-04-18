@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS uab;
-CREATE DATABASE uab;
-use uab;
+DROP DATABASE IF EXISTS bdingenieria;
+CREATE DATABASE bdingenieria;
+use bdingenieria;
 
 CREATE TABLE personal(
 idPersonal int not null auto_increment primary key,
