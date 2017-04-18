@@ -8,15 +8,10 @@
               <div class="col l4 s12">
                 <h5 class="white-text">Enlaces</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Acerca de nosotros</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Misión y Visión</a></li>
-                  <li><a class="grey-text text-lighten-3" href="view/contactos.php">Contactos</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Sistemas</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Redes y Telecomunicaciones</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Ambiental</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Inicio</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Carreras</a></li>
+                  <li><a class="grey-text text-lighten-3" href="view/contactos.php">Testimonios</a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Noticias</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Testimonios</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Cisco</a></li>
                 </ul>
               </div>
               <div class="col l3 s12">
