@@ -19,7 +19,7 @@
           </a>
           <ul class="right hide-on-med-and-down">
             <li><a href="login.php"><i class="fa fa-sign-in"></i>Login</a></li>
-            <li><a href="../index.php">Menu</a></li>
+            <li><a href="../index.php">Inicio</a></li>
           </ul>
 
           <ul id="nav-mobile" class="side-nav">

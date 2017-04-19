@@ -7,135 +7,133 @@
     padding: 10px;
 }</style>
 
-
-    <div class="">
+<body>
+    <div class="" id="carreras">
             <div class="section">
 
-                  <div class="row">
+                <div class="row">
 
                     <div class="col s12 m4">
-                      <div class="card">
-                        <div class="card-image">
-                          <img class="materialboxed" src="multimedia/img/sistem-5.jpg">
-                          <span class="card-title">Ingenieria de Sistemas</span>
-                          <a href="#modal1" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
-                        </div>
-                        <div class="card-content">
-                          <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
-                          que permite estudiar y comprender la realidad, con el propósito de implementar
-                           u optimizar sistemas complejos. </p>
-                        </div>
-                        <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="materialboxed" src="multimedia/img/sistem-5.jpg">
+                                <span class="card-title">Ingenieria de Sistemas</span>
+                                <a href="#modal1" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
+                                    que permite estudiar y comprender la realidad, con el propósito de implementar
+                                    u optimizar sistemas complejos. </p>
+                            </div>
+                            <!-- Modal Trigger -->
+                            <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
-                          <!-- Modal Structure -->
-                          <div id="modal1" class="modal">
-                            <div class="modal-content">
-                              <h4>Ingenieria de Sistemas</h4>
-                              <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
-                          que permite estudiar y comprender la realidad, con el propósito de implementar
-                           u optimizar sistemas complejos. Puede también verse como la aplicación tecnológica
-                            de la teoría de sistemas a los esfuerzos de la ingeniería, adoptando en todo este 
-                            trabajo el paradigma sistémico. La ingeniería de sistemas integra otras disciplinas
-                             y grupos de especialidad en un esfuerzo de equipo, formando un proceso de desarrollo centrado.
-                              La Ingeniería de Sistemas tiene, como campo de estudio, cualquier sistema existente. 
-                              Por ejemplo, la ingeniería de sistemas, puede estudiar el sistema digestivo o el sistema 
-                              inmunológico humano, o quizá, el sistema tributario de un país específico. Como es natural, 
-                              los sistemas informáticos son una pequeña parte de un enorme abanico de posibilidades.</p>
+                            <!-- Modal Structure -->
+                            <div id="modal1" class="modal">
+                                <div class="modal-content">
+                                    <h4>Ingenieria de Sistemas</h4>
+                                    <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
+                                        que permite estudiar y comprender la realidad, con el propósito de implementar
+                                        u optimizar sistemas complejos. Puede también verse como la aplicación tecnológica
+                                        de la teoría de sistemas a los esfuerzos de la ingeniería, adoptando en todo este 
+                                        trabajo el paradigma sistémico. La ingeniería de sistemas integra otras disciplinas
+                                        y grupos de especialidad en un esfuerzo de equipo, formando un proceso de desarrollo centrado.
+                                        La Ingeniería de Sistemas tiene, como campo de estudio, cualquier sistema existente. 
+                                        Por ejemplo, la ingeniería de sistemas, puede estudiar el sistema digestivo o el sistema 
+                                        inmunológico humano, o quizá, el sistema tributario de un país específico. Como es natural, 
+                                        los sistemas informáticos son una pequeña parte de un enorme abanico de posibilidades.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
+                                </div>
                             </div>
-                            <div class="modal-footer">
-                              <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
-                            </div>
-                          </div>
-                      </div>
+                        </div>
                     </div>
 
                     <div class="col s12 m4">
-                      <div class="card">
-                        <div class="card-image">
-                          <img class="materialboxed" src="multimedia/img/telecom.jpg">
-                          <span class="card-title">Ingenieria En Redes y Telecomunicaciones</span>
-                          <a  href="#modal2" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
-                        </div>
-                        <div class="card-content">
-                          <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
-                              una rama de la ingeniería, que resuelve problemas de transmisión y
-                               recepción de señales e interconexión de redes.  </p>
-                        </div>
-                        <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="materialboxed" src="multimedia/img/telecom.jpg">
+                                <span class="card-title">Ingenieria En Redes y Telecomunicaciones</span>
+                                <a  href="#modal2" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
+                                    una rama de la ingeniería, que resuelve problemas de transmisión y
+                                    recepción de señales e interconexión de redes.  </p>
+                            </div>
+                            <!-- Modal Trigger -->
+                            <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
-                          <!-- Modal Structure -->
-                          <div id="modal2" class="modal">
-                            <div class="modal-content">
-                              <h4>Ingenieria En Redes y Telecomunicaciones</h4>
-                              <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
-                              una rama de la ingeniería, que resuelve problemas de transmisión y
-                               recepción de señales e interconexión de redes. Es la disciplina de 
-                               aplicación de la telecomunicación, término que se refiere a la comunicación
-                                a distancia, generalmente a través de la propagación de ondas electromagnéticas. 
-                                Esto incluye muchas tecnologías, como radio, televisión, teléfono, comunicaciones 
-                                de datos y redes informáticas como Internet. La definición dada por la Unión Internacional
-                                 de Telecomunicaciones (ITU, International Telecommunication Union) para telecomunicación
-                                  es toda emisión, transmisión y recepción de signos, señales, escritos e imágenes, 
-                                  sonidos e informaciones de cualquier naturaleza, por hilo, radioelectricidad,
-                                   medios ópticos u otros sistemas electromagnéticos.</p>
+                            <!-- Modal Structure -->
+                            <div id="modal2" class="modal">
+                                <div class="modal-content">
+                                    <h4>Ingenieria En Redes y Telecomunicaciones</h4>
+                                    <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
+                                        una rama de la ingeniería, que resuelve problemas de transmisión y
+                                        recepción de señales e interconexión de redes. Es la disciplina de 
+                                        aplicación de la telecomunicación, término que se refiere a la comunicación
+                                        a distancia, generalmente a través de la propagación de ondas electromagnéticas. 
+                                        Esto incluye muchas tecnologías, como radio, televisión, teléfono, comunicaciones 
+                                        de datos y redes informáticas como Internet. La definición dada por la Unión Internacional
+                                        de Telecomunicaciones (ITU, International Telecommunication Union) para telecomunicación
+                                        es toda emisión, transmisión y recepción de signos, señales, escritos e imágenes, 
+                                        sonidos e informaciones de cualquier naturaleza, por hilo, radioelectricidad,
+                                        medios ópticos u otros sistemas electromagnéticos.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
+                                </div>
                             </div>
-                            <div class="modal-footer">
-                              <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
-                            </div>
-                          </div>
-                      </div>
+                        </div>
                     </div>
 
                     <div class="col s12 m4">
-                      <div class="card">
-                        <div class="card-image">
-                          <img class="materialboxed" src="multimedia/img/ambiental.jpg">
-                          <span class="card-title">Ingenieria Ambiental</span>
-                          <a href="#modal3" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
-                        </div>
-                        <div class="card-content">
-                          <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
-                              es la rama de la ingeniería que estudia los problemas ambientales de
-                               forma científica e integrada, teniendo en cuenta sus dimensiones científicas... </p>
-                        </div>
-                        <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
+                        <div class="card">
+                            <div class="card-image">
+                                <img class="materialboxed" src="multimedia/img/ambiental.jpg">
+                                <span class="card-title">Ingenieria Ambiental</span>
+                                <a href="#modal3" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
+                                    es la rama de la ingeniería que estudia los problemas ambientales de
+                                    forma científica e integrada, teniendo en cuenta sus dimensiones científicas... </p>
+                            </div>
+                            <!-- Modal Trigger -->
+                            <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
-                          <!-- Modal Structure -->
-                          <div id="modal3" class="modal">
-                            <div class="modal-content">
-                              <h4>Ingenieria Ambiental</h4>
-                              <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
-                              es la rama de la ingeniería que estudia los problemas ambientales de
-                               forma científica e integrada, teniendo en cuenta sus dimensiones científicas, 
-                               químicas, ecológicas, sociales, económicas y tecnológicas, con el objetivo de
-                                promover un desarrollo sostenible. Es un área y rama de las ciencias 
-                                ambientales que se basa en el diseño, la aplicación, y la gestión de
-                                 procesos, productos y servicios tecnológicos para la prevención, 
-                                 el control y remedio de problemas de degradación ambiental; para el
-                                  desarrollo del uso sustentable de recursos naturales en procesos 
-                                  productivos y de consumo, teniendo siempre como prioridad la excelente
-                                   calidad de vida en nuestro entorno.</p>
+                            <!-- Modal Structure -->
+                            <div id="modal3" class="modal">
+                                <div class="modal-content">
+                                    <h4>Ingenieria Ambiental</h4>
+                                    <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
+                                        es la rama de la ingeniería que estudia los problemas ambientales de
+                                        forma científica e integrada, teniendo en cuenta sus dimensiones científicas, 
+                                        químicas, ecológicas, sociales, económicas y tecnológicas, con el objetivo de
+                                        promover un desarrollo sostenible. Es un área y rama de las ciencias 
+                                        ambientales que se basa en el diseño, la aplicación, y la gestión de
+                                        procesos, productos y servicios tecnológicos para la prevención, 
+                                        el control y remedio de problemas de degradación ambiental; para el
+                                        desarrollo del uso sustentable de recursos naturales en procesos 
+                                        productivos y de consumo, teniendo siempre como prioridad la excelente
+                                        calidad de vida en nuestro entorno.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
+                                </div>
                             </div>
-                            <div class="modal-footer">
-                              <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
-                            </div>
-                          </div>
-                      </div>
+                        </div>
                     </div>
+                </div>
 
-                  </div>
-                
+            </div>
+        </div>
 
-
-
-
-
-
-        <div class="parallax-container valign-wrapper">
-            <div class="parallax"><img src="multimedia/img/sisWomen.jpg" alt="sis women"></div>
+        <div class="valign-wrapper">
+            <div class="center">
+                <img href="#noticias" src="multimedia/img/flisol.jpg" alt="sis women" >
+            </div>
         </div>
 
         <div class="container">
@@ -154,7 +152,7 @@
             </div>
         </div>
 
-        <div class="">
+        <div class="" id="noticias">
             <div class="section">
 
                 <!--   Icon Section   -->
@@ -217,3 +215,5 @@
             </div>
             <div class="parallax"><img src="multimedia/img/ww.jpg" alt="img ww"></div>
         </div>
+
+

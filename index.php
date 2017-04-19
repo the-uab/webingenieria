@@ -8,7 +8,6 @@
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="css/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   </head>
-  <body>
 
 <?php
   include 'view/headerIn.php';
