@@ -132,7 +132,7 @@
 
         <div class="valign-wrapper">
             <div class="center">
-                <img href="#noticias" src="multimedia/img/flisol.jpg" alt="sis women" >
+                <a title="Flisol" href="#noticias"><img src="multimedia/img/flisol.jpg" alt="sis women" ></a>
             </div>
         </div>
 
