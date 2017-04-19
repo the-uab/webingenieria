@@ -18,6 +18,7 @@
                         <div class="card-image">
                           <img class="materialboxed" src="multimedia/img/sistem-5.jpg">
                           <span class="card-title">Ingenieria de Sistemas</span>
+                          <a class="btn-floating halfway-fab waves-effect waves-light orange" href="#modal1"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
                           <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
@@ -25,7 +26,7 @@
                            u optimizar sistemas complejos. </p>
                         </div>
                         <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn" href="#modal1">Seguir Leyendo...</a>
+                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
                           <!-- Modal Structure -->
                           <div id="modal1" class="modal">
@@ -54,6 +55,7 @@
                         <div class="card-image">
                           <img class="materialboxed" src="multimedia/img/telecom.jpg">
                           <span class="card-title">Ingenieria En Redes y Telecomunicaciones</span>
+                          <a class="btn-floating halfway-fab waves-effect waves-light orange" href="#modal2"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
                           <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
@@ -61,8 +63,7 @@
                                recepción de señales e interconexión de redes.  </p>
                         </div>
                         <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn" href="#modal2">Seguir Leyendo...</a>
-                          <a class="waves-effect waves-light btn" href="">Pagina Oficial</a>
+                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
                           <!-- Modal Structure -->
                           <div id="modal2" class="modal">
@@ -92,6 +93,7 @@
                         <div class="card-image">
                           <img class="materialboxed" src="multimedia/img/ambiental.jpg">
                           <span class="card-title">Ingenieria Ambiental</span>
+                          <a class="btn-floating halfway-fab waves-effect waves-light orange" href="#modal3"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
                           <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
@@ -99,7 +101,7 @@
                                forma científica e integrada, teniendo en cuenta sus dimensiones científicas... </p>
                         </div>
                         <!-- Modal Trigger -->
-                          <a class="waves-effect waves-light btn" href="#modal3">Seguir Leyendo...</a>
+                          <a class="waves-effect waves-light btn orange" href="#"><i class="material-icons right">visibility</i>Pagina Oficial</a>
 
                           <!-- Modal Structure -->
                           <div id="modal3" class="modal">
