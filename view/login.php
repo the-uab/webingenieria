@@ -11,7 +11,7 @@
   <link href="../css/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
   <header>
-    <div class="navbar-fixed">
+    <div class="navbar">
       <nav class="orange" role="navigation">
         <div class="nav-wrapper container">
           <a id="logo-container" href="#" class="brand-logo">
@@ -26,8 +26,8 @@
             <div>
               <h5 class="center-align"><img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="25" width="25"></h5>
             </div><hr>
-            <li><a href="#"><i class="fa fa-sign-in"></i>Login</a></li>
-            <li><a href="#">Menu</a></li>
+            <li><a href="login.php"><i class="fa fa-sign-in"></i>Login</a></li>
+            <li><a href="../index.php">Inicio</a></li>
           </ul>
           <a href="#" data-activates="nav-mobile" class="button-collapse menu">
             <i class="fa fa-navicon"></i>
@@ -94,7 +94,7 @@
               <div class="col l3 s12">
                 <h5 class="white-text">Registro</h5>
                 <p class="grey-text text-lighten-4">Registrate y recibe las ultimas noticias.</p>
-                <form data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php" class="rd-mailform form-classic form-inline offset-top-15" novalidate="novalidate">
+                <form data-form-output="form-output-global" data-form-type="subscribe" method="post" action="#" class="rd-mailform form-classic form-inline offset-top-15" novalidate="novalidate">
                   <div class="form-group has-error">
                     <input id="contact-email" type="email" name="email" data-constraints="@Email @Required" class="form-control form-control-has-validation"><span class="form-validation">El email es requerido.</span>
                     <label for="contact-email" class="form-label rd-input-label">Ingresa tu E-mail</label>
