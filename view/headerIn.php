@@ -4,6 +4,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <title>UAB - Faculdad de Ingenieria</title>
+  <link rel="shortcut icon" href="multimedia/img/logoing.jpg">
+
 
   <!-- CSS  -->
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -29,9 +31,6 @@
                     <li><a href="#contactos" class="btn-floating btn tooltipped blue-grey" data-position="left" data-delay="50" data-tooltip="Contactos"><i class="material-icons">perm_identity</i></a></li>
                 </ul>
             </div>
-
-
-
 
             <div class="navbar">
             

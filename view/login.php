@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <title>Iniciar Seción</title>
+  <link rel="shortcut icon" href="../multimedia/img/login.png">
 
   <!-- CSS  -->
   <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -14,14 +15,14 @@
     <div class="navbar">
       <nav class="orange" role="navigation">
         <div class="nav-wrapper container">
-          <a id="logo-container" href="#" class="brand-logo">
+          <a id="logo-container" href="../index.php" class="brand-logo center">
             <img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30">FACULDAD DE INGENIERÍA
           </a>
           <ul class="right hide-on-med-and-down">
             <li><a href="login.php"><i class="fa fa-sign-in"></i>Login</a></li>
             <li><a href="../index.php">Inicio</a></li>
           </ul>
-
+          
           <ul id="nav-mobile" class="side-nav">
             <div>
               <h5 class="center-align"><img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="25" width="25"></h5>
