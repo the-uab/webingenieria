@@ -1,13 +1,25 @@
 <?php 
-class Conexion{
-	public function get_conexion(){
-		$user="root";		//usuario de la base de datos
-		$pass="";   //contraseña del uauario
-		$host="localhost";  //nombre del host
-		$db="bdingenieria";  //nombre de la base de datos
-		$conexion = new PDO("mysql:host=$host;dbname=$db;",$user,$pass);
-		return $conexion;
-	}
-	
+
+class Conexion extends PDO {
+   private $tipo_de_base = 'mysql';
+   private $host = 'localhost';
+   private $nombre_de_base = 'bdingenieria';
+   private $usuario = 'root';
+   private $contrasena = '';
+   public function __construct() {
+
+      try{
+         parent::__construct($this->tipo_de_base.':host='.$this->host.';dbname='.$this->nombre_de_base, $this->usuario, $this->contrasena);
+         echo "Conectado";
+      }catch(PDOException $e){
+         echo 'Ha surgido un error y no se puede conectar a la base de datos. Detalle: ' . $e->getMessage();
+         exit;
+      }
+
+   } 
+
  }
+
+$con = new Conexion();
+
 ?>

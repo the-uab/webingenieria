@@ -28,9 +28,6 @@
                 <li>
                     <img src="multimedia/img/redes-3.jpg" class="responsive-img">
                 </li>
-                <li>
-                    <img src="multimedia/img/ambiental-3.png" class="responsive-img">
-                </li>
             </ul>
 
         </div>

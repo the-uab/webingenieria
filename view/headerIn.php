@@ -43,11 +43,12 @@
                             </div>
                         </ul>
                     <div class="nav-wrapper container">
-                        <a id="logo-container" href="index.php" class="brand-logo center">
-                            <img src="multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30"> FACULDAD DE INGENIERÍA
-                        </a>
+                        
 
                         <ul class="right hide-on-med-and-down">
+                            <a id="logo-container" href="index.php" class="brand-logo center">
+                            <img src="multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30"> FACULDAD DE INGENIERÍA
+                            </a>
                             <li><a href="view/login.php"><i class="fa fa-sign-in"></i>Login</a></li>
                         </ul>
                         <ul id="nav-mobile" class="side-nav">
@@ -59,9 +60,11 @@
                             <li><a href="#">Inicio</a></li>
                         </ul>
                         <a href="#" data-activates="nav-mobile" class="button-collapse menu">
-                            <i class="fa fa-navicon"></i>
+                           <i class="fa fa-navicon"> </i>
+                            <img src="multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="20" width="20"> FACULDAD DE INGENIERÍA
                         </a>
                     </div>
                 </nav>
+
             </div>
         </header>
