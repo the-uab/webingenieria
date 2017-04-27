@@ -15,24 +15,26 @@
     <div class="navbar">
       <nav class="orange" role="navigation">
         <div class="nav-wrapper container">
-          <a id="logo-container" href="../index.php" class="brand-logo center">
-            <img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30">FACULDAD DE INGENIERÍA
-          </a>
-          <ul class="right hide-on-med-and-down">
-            <li><a href="login.php"><i class="fa fa-sign-in"></i>Login</a></li>
-            <li><a href="../index.php">Inicio</a></li>
-          </ul>
-          
-          <ul id="nav-mobile" class="side-nav">
-            <div>
-              <h5 class="center-align"><img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="25" width="25"></h5>
-            </div><hr>
-            <li><a href="login.php"><i class="fa fa-sign-in"></i>Login</a></li>
-            <li><a href="../index.php">Inicio</a></li>
-          </ul>
-          <a href="#" data-activates="nav-mobile" class="button-collapse menu">
-            <i class="fa fa-navicon"></i>
-          </a>
+
+
+            <ul class="right hide-on-med-and-down">
+                <a id="logo-container" href="../index.php" class="brand-logo center">
+                <img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="30" width="30"> FACULDAD DE INGENIERÍA
+                </a>
+
+            </ul>
+            <ul id="nav-mobile" class="side-nav">
+                <div>
+                    <h5 class="center-align responsive"><img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="25" width="25"></h5>
+                </div>
+
+                <li><a href="#"><i class="fa fa-sign-in"></i>Login</a></li>
+                <li><a href="../index.php">Inicio</a></li>
+            </ul>
+            <a href="../index.php" data-activates="nav-mobile" class="button-collapse menu">
+               <i class="fa fa-navicon"> </i>
+                <img src="../multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="20" width="20"> FACULDAD DE INGENIERÍA
+            </a>
         </div>
       </nav>
     </div>
@@ -47,28 +49,29 @@
               <span class="card-title black-text">Inicio Sesión</span>
               <br>
               <br>
-                <form method="POST" class="responsive">
+                <form method="POST" class="responsive" action="../index.php?modo=ingresar">
                   <div class="row">
                     <div class="input-field col s12">
-                      <input name="usermane" type="text" class="validate">
+                      <input name="usermane" type="text" class="validate" required>
                       <label for="text">Usuario</label>
                     </div>
                   </div>
                   <div class="row">
                     <div class="input-field col s12">
-                      <input name="password" type="password" class="validate">
+                      <input name="password" type="password" class="validate" required>
                       <label for="password">Contraseña</label>
                     </div>
                   </div>
+                  <input type="hidden" name="datos" value="1">
                   <div class="card-action center">
-                    <input type="submit" class="btn" value="Ingresar">                    
+                    <input type="submit" class="btn" value="Ingresar">
                   </div>
                 </form>
             </div>
           </div>
-        </div>    
+        </div>
       </div>
-      
+
 </body>
 <!--  Scripts-->
     <footer class="page-footer orange lighten-2">

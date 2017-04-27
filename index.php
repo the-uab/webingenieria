@@ -1,17 +1,29 @@
-<html>
-  <head>
-    <title>Facultad de Ingenieria - UAB</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link href="css/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  </head>
-
 <?php
-  include 'view/headerIn.php';
-  include 'view/slider.php';
-  include 'view/bodyIn.php';
-  include 'view/footerIn.php';
+  if (isset($_GET['modo'])) {
+    if ($_GET['modo']=="ingresar") {
+      if (isset($_POST['datos'])) {
+        include 'model/consultas.php';
+        include 'model/class.conexion.php';
+        include 'model/usuario.php';
+        include 'controller/ctrLogin.php';
+        $con = new Conexion();
+        $datUsuario = new Usuarios($_POST['usermane'], $_POST['password']);
+        $manage = new ManagerLogin($con);
+        $manage->Autentificaion($datUsuario);
+      }else {
+        echo "No ha llenado el formulario";
+      }
+    }else {
+      include 'view/headerIn.php';
+      include 'view/slider.php';
+      include 'view/bodyIn.php';
+      include 'view/footerIn.php';
+    }
+  }else {
+    include 'view/headerIn.php';
+    include 'view/slider.php';
+    include 'view/bodyIn.php';
+    include 'view/footerIn.php';
+  }
+
 ?>

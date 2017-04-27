@@ -33,7 +33,7 @@
             </div>
 
             <div class="navbar">
-            
+
                 <nav class="amber darken-3" role="navigation">
                   <ul class="right hide-on-med-and-down">
                             <div class="input-field">
@@ -43,7 +43,7 @@
                             </div>
                         </ul>
                     <div class="nav-wrapper container">
-                        
+
 
                         <ul class="right hide-on-med-and-down">
                             <a id="logo-container" href="index.php" class="brand-logo center">
@@ -55,7 +55,7 @@
                             <div>
                                 <h5 class="center-align responsive"><img src="multimedia/img/logoing.jpg" alt="log" class="circle responsive-img" height="25" width="25"></h5>
                             </div>
-                            
+
                             <li><a href="view/login.php"><i class="fa fa-sign-in"></i>Login</a></li>
                             <li><a href="#">Inicio</a></li>
                         </ul>
