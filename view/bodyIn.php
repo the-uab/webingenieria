@@ -18,7 +18,7 @@
                             <div class="card-image">
                                 <img class="materialboxed" src="multimedia/img/sistem-5.jpg">
                                 <span class="card-title">Ingenieria de Sistemas</span>
-                                <a href="#modal1" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                                <a href="#modal1" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped pulse" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
                             </div>
                             <div class="card-content">
                                 <p>La ingeniería de sistemas es un modo de enfoque interdisciplinario 
@@ -55,7 +55,7 @@
                             <div class="card-image">
                                 <img class="materialboxed" src="multimedia/img/telecom.jpg">
                                 <span class="card-title">Ingenieria En Redes y Telecomunicaciones</span>
-                                <a  href="#modal2" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                                <a  href="#modal2" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped pulse" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
                             </div>
                             <div class="card-content">
                                 <p>La ingeniería de telecomunicaciones (o de telecomunicación) es 
@@ -93,7 +93,7 @@
                             <div class="card-image">
                                 <img class="materialboxed" src="multimedia/img/ambiental.jpg">
                                 <span class="card-title">Ingenieria Ambiental</span>
-                                <a href="#modal3" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
+                                <a href="#modal3" class="btn-floating halfway-fab waves-effect waves-light orange btn tooltipped pulse" data-position="left" data-delay="50" data-tooltip="Leer Mas..."><i class="material-icons">add</i></a>
                             </div>
                             <div class="card-content">
                                 <p>La ingeniería ambiental o ingeniería de tecnologías ambientales 
